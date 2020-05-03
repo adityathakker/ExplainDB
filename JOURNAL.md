@@ -1,0 +1,4 @@
+## May 1, 2020
+Starting this interesting project to help me understand how databases work internally (and also learn Rust on the way). My goal is to understand how databases stores large amount data (on a single machine), how they plan and retrieve data (efficient query execution), and maybe later if I have more time, learn how to make it scalable and fault tolerant (distributed and replicated database with automatic recovery from failures).
+
+Read about disk storage and how an operating system stores data. Learnt about pages and how the **Von Neumann** Model is used to transfer data between Disk and Memory to actually store and retrieve data. Read about pages structures used in operating systems and other file systems like slot based page structure and page directory structure. 

@@ -1,0 +1,2 @@
+# ExplainDB (Explains Itself)
+This implementation of a simple relational database is meant to help me understand how a database internally works. This is purely for experimentation and learning. My goal is to write a small, and efficient relational database that explains what is it doing to get the final result at the end. 
